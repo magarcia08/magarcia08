@@ -79,6 +79,40 @@ public class MariaAlejandraCoding {
 
 ## 📂 Proyectos destacados
 
+---
+
+### 🤖 HelpDeskBot — Asistente Automatizado de Soporte Interno
+> Bot conversacional en Telegram para gestionar solicitudes internas de soporte de forma ordenada y automatizada.
+
+| | |
+|---|---|
+| 🗓️ Período | 2025 |
+| 🎯 Rol | Desarrolladora |
+| 🔗 Stack | n8n Community Edition · Telegram Bot API · Google Sheets |
+
+**¿Qué construí?**
+- 💬 Bot conversacional con flujos tipo wizard: el usuario navega mediante opciones numéricas claras y mensajes humanizados
+- 🎫 Sistema completo de tickets con tipos (soporte técnico, administrativo, consulta general), prioridad y seguimiento de estado
+- ⚙️ Automatizaciones con n8n: registro automático de tickets, cambio de estado (Abierto / En proceso / Cerrado) y notificaciones vía Telegram
+- 🗃️ Modelo de datos en Google Sheets con 3 hojas: `SOLICITUDES`, `USUARIOS` y `LOGS` de actividad
+- ✅ Validaciones completas: campos obligatorios, prioridad válida, usuario activo y confirmación antes de guardar
+
+**Vista previa del flujo principal:**
+```
+Hola, soy HelpDeskBot 👋
+Estoy aquí para ayudarte con solicitudes de soporte.
+
+Menú principal:
+0. Ayuda
+1. Crear solicitud
+2. Consultar estado de solicitud
+3. Mis solicitudes
+4. Reportes
+5. Configuración
+```
+
+`n8n` · `Telegram API` · `Google Sheets` · `Automatización` · `No-code / Low-code`
+
 ### 🏢 TalentX — Sistema de Gestión de RRHH
 > Sistema fullstack para la administración integral del talento humano.
 
