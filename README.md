@@ -26,8 +26,9 @@ public class MariaAlejandraCoding {
     String ubicacion   = "Colombia 🇨🇴";
     String objetivo    = "Desarrolladora internacional";
     String enfoque     = "Backend con Java & Spring Boot";
+    String en practica =  "Aprendiendo el avance de la inteligencia artifical";
 
-    String[] stack     = { "Java", "Spring Boot", "Node.js", "JavaScript", "React", "MySQL" };
+    String[] stack     = { "Java", "Spring Boot", "Node.js", "JavaScript", "React", "MySQL", "Inteligencia Artificial" };
     String[] learning  = { "Spring Security", "APIs REST avanzadas", "Flutter", "Arquitectura Backend" };
 
     String[] fortalezas = {
