@@ -86,7 +86,7 @@ public class MariaAlejandraCoding {
 
 | | |
 |---|---|
-| 🗓️ Período | 2025 |
+| 🗓️ Período | 2026 |
 | 🎯 Rol | Desarrolladora |
 | 🔗 Stack | n8n Community Edition · Telegram Bot API · Google Sheets |
 
