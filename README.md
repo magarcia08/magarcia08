@@ -2,9 +2,9 @@
 
 # ¡Hola mundo! Soy María Alejandra García 👩🏻‍💻✨
 
-### Desarrolladora Full Stack Junior · Java & Spring Boot · JavaScript · Python
+### Desarrolladora Full Stack Junior · Iniciando en QA · Java & Spring Boot · JavaScript · Python
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Desarrolladora+Full+Stack+Junior;Java+%26+Spring+Boot+Developer;Aprendiendo+todos+los+d%C3%ADas+%F0%9F%9A%80;Construyendo+soluciones+reales+%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Desarrolladora+Full+Stack+Junior;Iniciando+mi+camino+en+QA+%F0%9F%94%8D;Java+%26+Spring+Boot+Developer;No+solo+busco+errores%2C+busco+excelencia;Construyendo+soluciones+reales+%F0%9F%92%BB" alt="Typing SVG" />
 
 <br/>
 
@@ -21,26 +21,46 @@
 ```java
 public class MariaAlejandraCoding {
 
-    String nombre      = "María Alejandra García";
-    String rol         = "Full Stack Developer Junior";
-    String ubicacion   = "Colombia 🇨🇴";
-    String objetivo    = "Desarrolladora internacional";
-    String enfoque     = "Backend con Java & Spring Boot";
-    String en practica =  "Aprendiendo el avance de la inteligencia artifical";
+    String nombre        = "María Alejandra García";
+    int edad             = 22;
+    String rolActual     = "QA Engineer Junior";
+    String origen        = "Full Stack Developer Junior";
+    String ubicacion     = "Bucaramanga, Colombia 🇨🇴";
+    String objetivo      = "Profesional de calidad de software a nivel internacional";
+    String enfoque       = "Asegurar calidad con precisión, pensando como usuaria y probando como experta";
+    String enPractica    = "Aprendiendo el avance de la inteligencia artificial y la automatización de pruebas";
 
-    String[] stack     = { "Java", "Spring Boot", "Node.js", "JavaScript", "React", "MySQL", "Inteligencia Artificial" };
-    String[] learning  = { "Spring Security", "APIs REST avanzadas", "Flutter", "Arquitectura Backend" };
+    String[] stackDev    = { "Java", "Spring Boot", "Node.js", "JavaScript", "React", "MySQL" };
+    String[] stackQA     = { "Testing manual", "Casos de prueba", "Detección de bugs", "Automatización", "IA aplicada a QA" };
+    String[] learning    = { "Spring Security", "APIs REST avanzadas", "Automatización de pruebas", "Flutter", "Arquitectura Backend" };
 
     String[] fortalezas = {
-        "Construir aplicaciones de principio a fin",
-        "Lógica de backend limpia y estructurada",
-        "Adaptarme rápido a nuevas tecnologías"
+        "Detectar para prevenir, mejorar para impactar",
+        "Entender el código por dentro gracias a mi base como desarrolladora",
+        "Curiosa, empática, analítica y perseverante",
+        "Convertir cada prueba en una oportunidad para aprender y crecer"
     };
 
     boolean disponibleParaTrabajar = true;
     boolean aprendiendoCadaDia     = true; // siempre true ✅
 }
 ```
+
+> *"No solo busco errores, busco excelencia para crear experiencias que generen confianza y bienestar. Esa es mi huella en QA."*
+
+---
+
+## 🎯 Mi camino: de Desarrolladora a QA
+
+Empecé mi carrera construyendo software full stack — desde bots conversacionales hasta sistemas completos de gestión — y hoy estoy dando un nuevo paso: **inicié mi camino en QA**, llevando conmigo todo lo aprendido como desarrolladora para asegurar la calidad de las soluciones desde una mirada técnica y centrada en el usuario.
+
+**Mi enfoque en QA:**
+- ✅ Asegurar calidad con precisión
+- ✅ Pensar como usuaria, probar como experta
+- ✅ Detectar para prevenir, mejorar para impactar
+- ✅ Convertir cada prueba en una oportunidad para aprender y crecer
+
+**Lo que me define:** Curiosa 🔍 · Empática 🤝 · Comprometida 🎯 · Analítica 🧩 · Resiliente 💡 · Perseverante 🏆
 
 ---
 
@@ -65,7 +85,7 @@ public class MariaAlejandraCoding {
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### Herramientas
+### QA & Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -214,11 +234,12 @@ Menú principal:
 ```bash
 $ git log --oneline --learning
 
-a1b2c3d  Spring Boot avanzado                ✅ En progreso
-d4e5f6g  Seguridad con Spring Security       🔄 Aprendiendo
-h7i8j9k  Diseño de APIs REST                 🔄 Aprendiendo
-l1m2n3o  Arquitectura Backend                📌 Próximamente
-p4q5r6s  Flutter (desarrollo móvil)          📌 Próximamente
+a1b2c3d  Inicio en QA — testing y aseguramiento de calidad   ✅ En progreso
+d4e5f6g  Spring Boot avanzado                                🔄 Aprendiendo
+h7i8j9k  Seguridad con Spring Security                       🔄 Aprendiendo
+l1m2n3o  Automatización de pruebas                           📌 Próximamente
+p4q5r6s  Diseño de APIs REST                                 📌 Próximamente
+t7u8v9w  Flutter (desarrollo móvil)                          📌 Próximamente
 ```
 
 ---
@@ -237,11 +258,17 @@ p4q5r6s  Flutter (desarrollo móvil)          📌 Próximamente
 
 ---
 
+## ✨ Fuera del código
+
+🏍️ Manejar moto · 👨‍👩‍👧 Tiempo con familia y amigos · 🎵 Música · ✈️ Viajar · 📖 Leer
+
+---
+
 ## 🤝 ¡Conectemos!
 
 <div align="center">
 
-Estoy abierta a colaboraciones, proyectos freelance y oportunidades laborales.
+Estoy abierta a colaboraciones, proyectos freelance y oportunidades laborales — tanto en desarrollo como en QA.
 Si tienes algo interesante en mente, escríbeme sin pensarlo dos veces. 👇🏻
 
 <br/>
@@ -253,7 +280,7 @@ Si tienes algo interesante en mente, escríbeme sin pensarlo dos veces. 👇🏻
 
 ---
 
-*"El mejor código es el que resuelve problemas reales — y el mejor desarrollador es el que nunca deja de aprender."*
+*"Hoy inicio mi camino en QA, mañana seré parte de grandes soluciones."*
 
 <br/>
 
